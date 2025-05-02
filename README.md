@@ -2,6 +2,12 @@
 
 TEAM-CodeCraft is a full-stack web application built with **React**, **Node.js**, and **MongoDB** to manage team members efficiently. The app provides a clean interface for adding, viewing, and managing team members, complete with image upload and real-time API integration.
 
+# TEAM MEMBERS
+- AGNIDEEP GHORAI(090)
+- ADITYA NARAYAN CHOUDHARY(097)
+- AARYAN CHANDRA(100)
+- DEVANG CHAUHAN(102)
+
 ## 🌟 Features
 
 - Responsive and intuitive UI with modern design
