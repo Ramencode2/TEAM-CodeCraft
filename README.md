@@ -19,4 +19,33 @@ TEAM-CodeCraft is a full-stack web application built with **React**, **Node.js**
 - **Tools:** Visual Studio Code, Git
 
 ## 📂 Project Structure
-
+team-management/
+│
+├── backend/
+│   ├── server.js               # Main Express server file
+│   ├── package.json            # Backend dependencies
+│   └── uploads/                # Folder for storing uploaded profile images
+│
+└── frontend/
+    ├── public/
+    │   ├── index.html          # HTML template
+    │   ├── favicon.ico         # Favicon
+    │   └── manifest.json       # Web app manifest
+    │
+    ├── src/
+    │   ├── components/
+    │   │   ├── Header.js       # Navigation header component
+    │   │   └── Header.css      # Header styling
+    │   │
+    │   ├── pages/
+    │   │   ├── HomePage.js             # Landing page
+    │   │   ├── AddMemberPage.js        # Form to add team members
+    │   │   ├── ViewMembersPage.js      # List of all team members
+    │   │   └── MemberDetailsPage.js    # Individual member details
+    │   │
+    │   ├── App.js              # Main React component with routing
+    │   ├── App.css             # Global styles
+    │   └── index.js            # React entry point
+    │
+    ├── package.json            # Frontend dependencies
+    └── README.md               # Project documentation
